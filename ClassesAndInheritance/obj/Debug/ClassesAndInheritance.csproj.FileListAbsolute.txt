@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\bin\Debug\ClassesAndInheritance.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\bin\Debug\ClassesAndInheritance.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\bin\Debug\ClassesAndInheritance.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\obj\Debug\ClassesAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\obj\Debug\ClassesAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\obj\Debug\ClassesAndInheritance.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ClassesAndInheritance\obj\Debug\ClassesAndInheritance.pdb

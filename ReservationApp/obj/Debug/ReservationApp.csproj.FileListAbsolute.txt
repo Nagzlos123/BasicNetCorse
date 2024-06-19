@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\bin\Debug\ReservationApp.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\bin\Debug\ReservationApp.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\bin\Debug\ReservationApp.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\obj\Debug\ReservationApp.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\obj\Debug\ReservationApp.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\obj\Debug\ReservationApp.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ReservationApp\obj\Debug\ReservationApp.pdb

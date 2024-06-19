@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\bin\Debug\Colections.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\bin\Debug\Colections.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\bin\Debug\Colections.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\obj\Debug\Colections.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\obj\Debug\Colections.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\obj\Debug\Colections.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\Colections\obj\Debug\Colections.pdb

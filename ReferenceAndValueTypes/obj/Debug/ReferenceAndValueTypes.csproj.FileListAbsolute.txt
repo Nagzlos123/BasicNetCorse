@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

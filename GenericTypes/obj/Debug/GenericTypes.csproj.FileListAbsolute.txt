@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\bin\Debug\GenericTypes.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\bin\Debug\GenericTypes.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\bin\Debug\GenericTypes.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\obj\Debug\GenericTypes.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\obj\Debug\GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\obj\Debug\GenericTypes.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\GenericTypes\obj\Debug\GenericTypes.pdb

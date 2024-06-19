@@ -1,0 +1,10 @@
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\obj\Debug\FileHandling.pdb
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Media\source\repos\FistBasicNetCorse\FileHandling\obj\Debug\FileHandling.csproj.CopyComplete
