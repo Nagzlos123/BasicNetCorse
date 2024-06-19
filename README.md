@@ -1,2 +1,2 @@
-# BasicNetCorse
-BasicNetCorse course materials for the documetantation purposes. 
+# FirstBasicNetCorse
+FirstBasicNetCorse course materials for the documetantation purposes. 
