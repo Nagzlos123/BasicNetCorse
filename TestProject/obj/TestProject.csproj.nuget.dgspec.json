@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\Media\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\arekw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Media\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arekw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -42,23 +48,27 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.6.0, )"
+              "version": "[17.11.1, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[4.2.2, )"
             },
             "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.6.1, )"
+              "version": "[4.3.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.2.1, )"
+              "version": "[4.6.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -77,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

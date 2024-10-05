@@ -1,0 +1,15 @@
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\bin\Debug\net8.0\AsynchronousProgramming.exe
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\bin\Debug\net8.0\AsynchronousProgramming.deps.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\bin\Debug\net8.0\AsynchronousProgramming.runtimeconfig.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\bin\Debug\net8.0\AsynchronousProgramming.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\bin\Debug\net8.0\AsynchronousProgramming.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.sourcelink.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\refint\AsynchronousProgramming.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\AsynchronousProgramming\obj\Debug\net8.0\ref\AsynchronousProgramming.dll

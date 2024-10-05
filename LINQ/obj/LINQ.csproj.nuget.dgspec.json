@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\LINQ\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\LINQ\\LINQ.csproj",
-        "packagesPath": "C:\\Users\\Media\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Media\\source\\repos\\FistBasicNetCorse\\LINQ\\obj\\",
+        "projectPath": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\LINQ\\LINQ.csproj",
+        "packagesPath": "C:\\Users\\arekw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\Media\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arekw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,11 @@
           "net48": {
             "projectReferences": {}
           }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -36,11 +41,11 @@
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
-              "version": "[31.0.0, )"
+              "version": "[33.0.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.3, )"
             }
           }
         }
