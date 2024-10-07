@@ -33,9 +33,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypes", "GenericType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgrammingApp", "AsynchronousProgrammingApp\AsynchronousProgrammingApp.csproj", "{C9449CE1-19EF-497F-8662-E38FA71264BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgramming", "AsynchronousProgramming\AsynchronousProgramming.csproj", "{E6854312-AE3A-41D6-A536-9BF436469B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsynchronousProgramming", "AsynchronousProgramming\AsynchronousProgramming.csproj", "{E6854312-AE3A-41D6-A536-9BF436469B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPClientApp", "HTTPClientApp\HTTPClientApp.csproj", "{428C938A-8712-4D02-BA8E-3ED925B0CDCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPClientApp", "HTTPClientApp\HTTPClientApp.csproj", "{428C938A-8712-4D02-BA8E-3ED925B0CDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAndAttributes", "ReflectionAndAttributes\ReflectionAndAttributes.csproj", "{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{428C938A-8712-4D02-BA8E-3ED925B0CDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428C938A-8712-4D02-BA8E-3ED925B0CDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{428C938A-8712-4D02-BA8E-3ED925B0CDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

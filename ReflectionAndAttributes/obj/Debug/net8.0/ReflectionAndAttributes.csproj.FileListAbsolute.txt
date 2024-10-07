@@ -1,0 +1,15 @@
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\bin\Debug\net8.0\ReflectionAndAttributes.exe
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\bin\Debug\net8.0\ReflectionAndAttributes.deps.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\bin\Debug\net8.0\ReflectionAndAttributes.runtimeconfig.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\bin\Debug\net8.0\ReflectionAndAttributes.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\bin\Debug\net8.0\ReflectionAndAttributes.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.sourcelink.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\refint\ReflectionAndAttributes.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ReflectionAndAttributes.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\ReflectionAndAttributes\obj\Debug\net8.0\ref\ReflectionAndAttributes.dll
