@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6F1ED2D-2B4D-4C5E-B06D-8820B13CD341}|Records\\Records.csproj|c:\\users\\arekw\\source\\repos\\firstbasicnetcorse\\records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F1ED2D-2B4D-4C5E-B06D-8820B13CD341}|Records\\Records.csproj|solutionrelative:records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}|ReflectionAndAttributes\\ReflectionAndAttributes.csproj|c:\\users\\arekw\\source\\repos\\firstbasicnetcorse\\reflectionandattributes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B7AE9D6-CD9C-40CB-8B41-DDFA0F63ED77}|ReflectionAndAttributes\\ReflectionAndAttributes.csproj|solutionrelative:reflectionandattributes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\Records\\Program.cs",
+              "RelativeDocumentMoniker": "Records\\Program.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\Records\\Program.cs",
+              "RelativeToolTip": "Records\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:32:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisplayPropertyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\ReflectionAndAttributes\\DisplayPropertyAttributes.cs",
               "RelativeDocumentMoniker": "ReflectionAndAttributes\\DisplayPropertyAttributes.cs",
@@ -54,25 +71,24 @@
               "RelativeToolTip": "ReflectionAndAttributes\\DisplayPropertyAttributes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:19:43.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T21:19:43.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\ReflectionAndAttributes\\Person.cs",
               "RelativeDocumentMoniker": "ReflectionAndAttributes\\Person.cs",
               "ToolTip": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\ReflectionAndAttributes\\Person.cs",
               "RelativeToolTip": "ReflectionAndAttributes\\Person.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T17:55:06.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\ReflectionAndAttributes\\Address.cs",
               "RelativeDocumentMoniker": "ReflectionAndAttributes\\Address.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "ReflectionAndAttributes\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T17:52:47.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T17:52:47.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\ReflectionAndAttributes\\Program.cs",
               "RelativeDocumentMoniker": "ReflectionAndAttributes\\Program.cs",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "ReflectionAndAttributes\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIA9wBEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T17:33:45.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T17:33:45.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Flurl.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\HTTPClientApp\\Flurl.cs",
               "RelativeDocumentMoniker": "HTTPClientApp\\Flurl.cs",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "HTTPClientApp\\Flurl.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:57:50.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T11:57:50.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\HTTPClientApp\\Post.cs",
               "RelativeDocumentMoniker": "HTTPClientApp\\Post.cs",
@@ -123,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\HTTPClientApp\\Program.cs",
               "RelativeDocumentMoniker": "HTTPClientApp\\Program.cs",
@@ -135,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FirstBasicNetCorse\\AsynchronousProgramming\\Program.cs",
               "RelativeDocumentMoniker": "AsynchronousProgramming\\Program.cs",

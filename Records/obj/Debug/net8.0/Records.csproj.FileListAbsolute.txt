@@ -1,0 +1,15 @@
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.sourcelink.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\bin\Debug\net8.0\Records.exe
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\bin\Debug\net8.0\Records.deps.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\bin\Debug\net8.0\Records.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\bin\Debug\net8.0\Records.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\refint\Records.dll
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.pdb
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FirstBasicNetCorse\Records\obj\Debug\net8.0\ref\Records.dll
